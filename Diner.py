@@ -1,9 +1,6 @@
-# Meera Patel, meeerakpa@usc.edu
-# ITP 115, Spring 2020
-# Final Project
 # Diner.py
 # DESCRIPTION:
-    # represents one of the diners at the restaurant and keeps track of their status and meal
+# represents one of the diners at the restaurant and keeps track of their status and meal
 
 # import MenuItem class
 from MenuItem import MenuItem
