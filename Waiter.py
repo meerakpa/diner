@@ -1,11 +1,8 @@
-# Meera Patel, meeerakpa@usc.edu
-# ITP 115, Spring 2020
-# Final Project
 # Waiter.py
 # Description:
-    # represent the restaurant's waiter
-    # waiter maintaining a list of diners they're currently taking care of and progress them through diff stages
-    # there is a cycle the waiter continuously drives through
+# represent the restaurant's waiter
+# waiter maintaining a list of diners they're currently taking care of and progress them through diff stages
+# there is a cycle the waiter continuously drives through
 
 # import the Diner and Menu class
 from Diner import Diner
