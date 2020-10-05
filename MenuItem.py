@@ -1,9 +1,6 @@
-# Meera Patel, meeerakpa@usc.edu
-# ITP 115, Spring 2020
-# Final Project
 # MenuItem.py
 # Description:
-    # represents single item that a diner can order from the restaurant's menu
+# represents single item that a diner can order from the restaurant's menu
 
 class MenuItem(object):
     # parameter 1: str representing name of MenuItem
