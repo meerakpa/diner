@@ -1,9 +1,6 @@
-# Meera Patel, meeerakpa@usc.edu
-# ITP 115, Spring 2020
-# Final Project
 # Menu.py
 # DESCRIPTION:
-    # represents the restaurant's menu containing 4 diff categories of menu items that diners can order from
+# represents the restaurant's menu containing 4 diff categories of menu items that diners can order from
 
 # import MenuItem class from the .py file
 from MenuItem import MenuItem
